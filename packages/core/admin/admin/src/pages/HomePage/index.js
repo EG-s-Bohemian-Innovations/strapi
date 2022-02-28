@@ -80,7 +80,7 @@ const HomePage = () => {
               {showGuidedTour ? <GuidedTourHomepage /> : <ContentBlocks />}
             </GridItem>
             <GridItem col={4} s={12}>
-              <SocialLinks />
+              
             </GridItem>
           </Grid>
         </Box>
